@@ -1,8 +1,8 @@
 # 📘 Generative AI Lab Experiments & Project
 
 ## 👤 Student Details
-- **Name:** Harshit Chauhan  
-- **Roll Number:** 2301420030  
+- **Name:** DEV PAWAR  
+- **Roll Number:** 2301420028
 - **Course:** B.Tech CSE (Data Science)  
 - **Semester:** 6  
 
